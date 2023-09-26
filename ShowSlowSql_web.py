@@ -6,10 +6,10 @@ import pandas as pd
 # 连接到MySQL数据库
 # pip install mysql-connector-python
 db_connection = mysql.connector.connect(
-    host='sh-cynosdbmysql-grp-d3e44ltk.sql.tencentcdb.com',
-    port=24789,
-    user="public_write",
-    password="wozaidb@123",
+    host='sh-******.com',
+    port=24*9,
+    user="pub****te",
+    password="w*****23",
     database="slowsql_info"
 )
 
